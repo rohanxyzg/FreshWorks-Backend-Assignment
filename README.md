@@ -24,4 +24,6 @@ The data store will support the following functional requirements.
 ## Steps:
 
 * git clone repo into your machine
-* open DataStore.java into your preferred editor and run it
+* Open DataStore.java into your preferred editor
+* Set up path for data.json file on your machine
+* Run the program
